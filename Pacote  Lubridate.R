@@ -1,5 +1,3 @@
-
-
 ## Statplace
 
 ## Script Case Prático - Lubridate
