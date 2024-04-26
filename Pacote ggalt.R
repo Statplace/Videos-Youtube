@@ -1,5 +1,3 @@
-
-
 ## Instalando os pacotes ------
 install.packages("ggplot2")
 install.packages("survival")
