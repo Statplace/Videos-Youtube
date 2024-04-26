@@ -1,4 +1,3 @@
-
 ## Statplace 
 
 ## Caso Prático - Pacote corrmorant
