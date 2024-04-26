@@ -52,3 +52,4 @@ ggplot(km_df, aes(x = time, y = surv)) +
     y = "Probabilidade de Sobrevivência"
   ) +
   theme_bw(12)
+
