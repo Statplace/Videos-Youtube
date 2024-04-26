@@ -1,5 +1,4 @@
-
-# Oper
+# Statplace
 
 # Script - Caso prático 1 - Regressão de Poisson
 
