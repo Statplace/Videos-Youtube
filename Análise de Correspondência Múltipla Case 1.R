@@ -1,5 +1,4 @@
-
-## Oper
+## Statplace
 
 ## Script - Análise de Correspondência Múltipla
 
